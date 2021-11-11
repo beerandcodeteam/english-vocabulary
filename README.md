@@ -12,9 +12,9 @@ Bons estudos!</p>
 - [Daily vocabulary](#daily-vocabulary)
 - [Business vocabulary](#business-vocabulary)
 - [Programming vocabulary](#programming-vocabulary)
+- [False friend words](#false-friend-words)
 
 ## Daily vocabulary
-
 
 | Word       | Example                  | Translation                                                                                                         |
 | :-------------- | :-------------------- | :------------------------------------------------------------------------------------------------------------------ |
@@ -28,6 +28,16 @@ WIP
 ## Programming vocabulary
 
 WIP
+
+## False friend words
+
+| Word       | Example                  | Translation                                                                                                         |
+| :-------------- | :-------------------- | :------------------------------------------------------------------------------------------------------------------ |
+| **Actually** | Actually, I don't think PHP is dead!      |  Na realidade, eu não acho que PHP morreu!       |
+| **Nowdays**         | Nowdays, PHP is very popular.       | Atualmente, o PHP está muito popular.|
+
+
+<br/>
 
 ## Beer and Code
 
