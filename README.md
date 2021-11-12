@@ -14,6 +14,60 @@ Bons estudos!</p>
 - [Programming vocabulary](#programming-vocabulary)
 - [False friend words](#false-friend-words)
 
+## Termination Rules
+
+A regra das terminações, a qual será passada nesta seção, possuem algumas exceções, mas em contrapartida te dá um vocabulario muito extenso em um curto periodo de tempo. Em poucas ocasiões (bem poucas mesmo), será algo diferente, seja por uma questão cultural, seja por que realmente não existe, mas essas ultimas são a minoria.
+
+### DADE vs TY
+
+Para todas as palavras em português que terminem em DADE (como a palavra cidade) retire o DADE e coloque em seu lugar TY e assim CIDADE passou a ser CITY.
+Exemplos:
+
+CI**DADE** = CI**TY**
+VELOCI**DADE** = VELOCI**TY**
+SIMPLICI**DADE** = SIMPLICI**TY**
+NATURALI**DADE** = NATURALI**TY**
+CAPACI**DADE** = CAPACI**TY**
+
+### ÇÃO vs TION
+
+Para todas as palavras em português que terminem em ÇÃO (como a palavra NAÇÃO) tire fora o ÇÃO e coloque em seu lugar TION.
+Exemplos:
+
+SIMPLIFICA**ÇÃO** = SIMPLIFICA**TION**
+NA**ÇÃO** = NA**TION**
+OBSERVA**ÇÃO** = OBSERVA**TION**
+NATURALIZA**ÇÃO** = NATURALIZA**TION**
+SENSA**ÇÃO** = SENSA**TION**
+
+### MENTE vs LLY
+Para os advérbios terminados em MENTE , tire o MENTE e em seu lugar coloque LLY. Mas, quando o radical em português termina em L, como na palavra TOTALMENTE, acrescente apenas LY).
+Exemplos:
+
+TOTAL**MENTE** = TOTA**LLY**
+GENETICA**MENTE** = GENETICA**LLY**
+NATURAL**MENTE** = NATURA**LLY**
+ORAL**MENTE** = ORA**LLY**
+
+### ÊNCIA vs ENCE
+Para as palavras terminadas em ÊNCIA (como no caso de ESSÊNCIA), tire o ÊNCIA e em seu lugar coloque ENCE.
+Exemplos:
+
+ESS**ÊNCIA** = ESS**ENCE**
+REVER**ÊNCIA** = REVER**ENCE**
+FREQÜ**ÊNCIA** = FREQU**ENCE**
+ELOQÜ**ÊNCIA** = ELOQU**ENCE**
+
+### DADE vs TY
+Para as palavras terminadas em AL (como na palavra GENERAL), não mude nada.
+Exemplos:
+
+NATURAL = NATURAL
+TOTAL = TOTAL
+GENERAL = GENERAL
+FATAL = FATAL
+SENSUAL = SENSUAL
+
 ## Daily vocabulary
 
 | Word       | Example                  | Translation                                                                                                         |
