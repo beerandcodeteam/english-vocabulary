@@ -91,6 +91,25 @@ WIP
 | **Nowdays**         | Nowdays, PHP is very popular.       | Atualmente, o PHP está muito popular.|
 
 
+## Standard vs Pattern vs Default
+Em português todas estas palavras são traduzidas como "padrão", mas possuem significado diferentes.
+Standard /standərd/
+	1. Standard a level of quality or attainment.
+	"their restaurant offers a high standard of service"
+	2. an idea or thing used as a measure, norm, or model in comparative evaluations.
+	"the wages are low by today's standards"
+Pattern /padern/
+	a repeated decorative design or efficient guide to make some work.
+Default /dəˈfôlt/
+	a preselected option adopted by a computer program or other mechanism when no alternative is specified by the user or programmer.
+
+Ler um livro traduzido para o português pode não passar exatamente o que autor queria passar. Por isto procure ler obras originais em inglês, principalmente
+documentação técnica. Tradução sempre há risco de perda de conteúdo.
+
+Avoid misunderstandig /ˌmisˌəndərˈstandiNG/
+	a failure to understand something correctly.
+	"a misunderstanding of the facts and the law"
+
 <br/>
 
 ## Beer and Code
